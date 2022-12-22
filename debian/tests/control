@@ -1,0 +1,2 @@
+Tests: python3-bcrypt
+Depends: python3-bcrypt, python3-pytest, python3-all
